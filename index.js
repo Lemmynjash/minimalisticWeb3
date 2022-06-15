@@ -11,6 +11,7 @@ async function store() {
   if (typeof window.ethereum !== "undefined") {
     const contract_address = "0x5FbDB2315678afecb367f032d93F642f64180aa3";
 
+    
     const abi = [
       {
         inputs: [
