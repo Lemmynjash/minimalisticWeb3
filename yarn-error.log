@@ -1,0 +1,27 @@
+Arguments: 
+  /usr/local/bin/node /usr/share/yarn/bin/yarn.js add browserify
+
+PATH: 
+  /home/lemmy/.npm-global/bin:/home/lemmy/.local/bin:/home/lemmy/.npm-global/bin:/home/lemmy/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/local/go/bin:/home/lemmy/hadoop/sbin:/home/lemmy/hadoop/bin:/opt/hive/bin:/opt/spark/bin:/opt/spark/sbin:/opt/sqoop/bin:/usr/local/go/bin:/home/lemmy/hadoop/sbin:/home/lemmy/hadoop/bin:/opt/hive/bin:/opt/spark/bin:/opt/spark/sbin:/opt/sqoop/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  14.18.3
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: getaddrinfo EAI_AGAIN registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:71:26)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
